@@ -54,6 +54,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+
 ➡️ [more videos...][youtube]
 
 ---
@@ -72,6 +73,14 @@
 
 ---
 
+### 💬 Latest Telegram Posts
+
+<!-- TELEGRAM-POST:START -->
+<!-- TELEGRAM-POST:END -->
+
+➡️ [more...](#)
+
+---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
