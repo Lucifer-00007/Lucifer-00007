@@ -50,6 +50,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Installation SE toolkit   in  Termux](https://www.youtube.com/watch?v=aMi1z4aUd9M)
+- [Brute  Force  Attack  using  Termux](https://www.youtube.com/watch?v=CetdJLSr1xY)
+- [Web Scanning  using  Termux](https://www.youtube.com/watch?v=ngRunJimiJg)
+- [Finding  Location  using  Termux](https://www.youtube.com/watch?v=IeJHGmip3Ks)
+- [SQL  mapping  in  Termux](https://www.youtube.com/watch?v=-6Ams-vLQQw)
 <!-- YOUTUBE:END -->
 
 
