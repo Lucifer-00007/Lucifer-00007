@@ -61,6 +61,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥How to Check Used & Empty RAM Slots on Windows 10🔥](https://tectalkflow.blogspot.com/2020/09/how-to-check-used-empty-ram-slots-on.html)
+- [🔰 How do I hack someone computer or mobile by IP address? 🔰](https://tectalkflow.blogspot.com/2020/09/how-do-i-hack-someone-computer-or.html)
+- [🔰HOW TO RUN .EXE FILE IN ANDROID🔰](https://tectalkflow.blogspot.com/2020/09/how-to-run-exe-file-in-android.html)
+- [How to Clean Up Your Infected Computer Without Loosing Your Data?](https://tectalkflow.blogspot.com/2020/08/how-to-clean-up-your-infected-computer.html)
+- [⛎How To Use Chrome’s Password Checkup Feature⛎](https://tectalkflow.blogspot.com/2020/08/how-to-use-chromes-password-checkup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://tectalkflow.blogspot.com/)
