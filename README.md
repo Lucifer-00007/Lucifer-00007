@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=tectalkflow.blogspot.com&style=for-the-badge&url=https://tectalkflow.blogspot.com/)](https://tectalkflow.blogspot.com/)
 [![Telegram Channel](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Programmer, Owner_of_Lucifer-World(Telegram_Channel), Content_Creator and Teacher!!
+## Welcome To LuciferWorld!!
 
 - 🔭 I just launched my first course: [Termux Hacking!](https://www.youtube.com/playlist?list=PLaxi76nSJ5Q68L1NJD4ldWmxesYkUvhTz)
 - 🌱 I’m currently learning everything 🤣
@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Lucifer-00007's GitHub Stats" src="https://github-readme-stats.Lucifer-00007.vercel.app/api?username=Lucifer-00007&show_icons=true&hide_border=true" />
+  <img align="left" alt="Lucifer-00007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lucifer-00007&show_icons=true&hide_border=true" />
 
 </details>
 
