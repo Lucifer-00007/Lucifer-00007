@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucifer - aka [Decoder](https://tectalkflow.blogspot.com/) 👋
 
 [![Website](https://img.shields.io/website?label=tectalkflow.blogspot.com&style=for-the-badge&url=https://tectalkflow.blogspot.com/)](https://tectalkflow.blogspot.com/)
-[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg?style=for-the-badge&logo=Telegram)][telegram] 
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg?style=for-the-badge&logo=Telegram)][telegram] 
 
 
 ## Welcome To LuciferWorld!!
