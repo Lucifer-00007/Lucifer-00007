@@ -88,7 +88,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats </summary>
 
   <img align="left" alt="Lucifer-00007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lucifer-00007&show_icons=true&hide_border=true" />
 
