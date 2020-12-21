@@ -122,4 +122,4 @@
 
 [Python]: https://www.python.org/
 
-[telegram]: https://t.me/LuciferWorld77
+[telegram]: https://telegram.dog/LuciferWorld77
