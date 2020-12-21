@@ -76,7 +76,7 @@
 <!-- TELEGRAM-POST:START -->
 <!-- TELEGRAM-POST:END -->
 
-➡️ [more...](#)
+➡️ [Click Here...][telegram]
 
 ---
 <details>
