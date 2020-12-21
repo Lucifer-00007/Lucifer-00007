@@ -18,11 +18,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/internetexplorer.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/internet-2855112-2378008.png" />][website]
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/youtube-1868966-1583130.png" />][youtube]
 
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1856777-1576513.png" />][telegram]
 
 <br />
 
