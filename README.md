@@ -26,6 +26,7 @@
 
 <br />
 
+
 ### Languages and Tools:
 [<img align="left" alt="Pycham" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/pycharm-2-1175010.png" />][Pycham]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
@@ -33,7 +34,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" />][HTML5]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/mysql-17-871764.png" />][MySQ]
 [<img align="left" alt="Linux" width="26px" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" />][Linux]
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][GitHub]
+[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/2x/github--v1.png" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 
 <br />
