@@ -1,4 +1,4 @@
-name: GitHub - Activity
+name: Update README
 
 on:
   schedule:
