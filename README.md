@@ -48,7 +48,7 @@
 - [How to calculate war weight  in coc](https://www.youtube.com/watch?v=ga58I80gfbA)
 - [GP links se File Download kaise kare | [Hindi] | how to download file from gp links](https://www.youtube.com/watch?v=J3DV0M0xECY)
 - [NEW   CLASH OF CLAN TROLL VIDEO| BH9 TROLL BASE 2020](https://www.youtube.com/watch?v=6ukSXtsfVuQ)
-- [How to Hack "Ludo King'' Unlimited SIX Without Root 2020#StayHome](https://www.youtube.com/watch?v=gGOE7KMwrcA)
+- [How to Hack &quot;Ludo King&#39;&#39; Unlimited SIX Without Root 2020#StayHome](https://www.youtube.com/watch?v=gGOE7KMwrcA)
 - [How to solve this 👆🏽 with a continuous pen stroke..and ..without overdrawing twice a line..](https://www.youtube.com/watch?v=YCj0KNibXRk)
 <!-- YOUTUBE:END -->
 
