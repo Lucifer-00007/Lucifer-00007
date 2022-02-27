@@ -14,8 +14,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/4aoXrKQWE6JaFVc1EmISW5)
-<!-- [![Spotify](novatorem-5yxcl49k0-leonidasfrostmp-gmailcom.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris) -->
+<!-- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris) -->
+[![Spotify](https://novatorem-5yxcl49k0-leonidasfrostmp-gmailcom.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
 
 ### Connect with me:
 
