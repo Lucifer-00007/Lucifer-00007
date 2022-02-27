@@ -15,7 +15,7 @@
 ### Spotify Playing 🎧
 
 <!-- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris) -->
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ae Watan (Female))
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/1qIqGax1IQqJm5H1QxqLcJ)
 
 ### Connect with me:
 
