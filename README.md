@@ -124,6 +124,6 @@
 
 [Python]: https://www.python.org/
 
-[telegram]: https://telegram.dog/LuciferWorld77
+[telegram]: https://telegram.dog/LuciferWorld7
 
 [Linux]: https://www.linux.org/
