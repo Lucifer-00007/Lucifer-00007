@@ -10,7 +10,7 @@
 - **🌱 I’m currently learning everything 🤣**
 - **👯 I’m looking to collaborate with other content creators**
 - **🥅 2025 Goals: Contribute more to Open Source projects**
-- **⚡ Fun fact: I love to Collect-Infomation and play Cricket, Batminton**
+- **⚡ Fun fact: I love to Collect-Information and Play Cricket, Badminton**
 
 ### Spotify Playing 🎧
 
