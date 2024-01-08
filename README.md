@@ -6,7 +6,6 @@
 
 ## Welcome To LuciferWorld!!
 
-- **🔭 I just launched my first course: [Termux Hacking!](https://www.youtube.com/playlist?list=PLaxi76nSJ5Q68L1NJD4ldWmxesYkUvhTz)**
 - **🌱 I’m currently learning everything 🤣**
 - **👯 I’m looking to collaborate with other content creators**
 - **🥅 2025 Goals: Contribute more to Open Source projects**
