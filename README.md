@@ -78,17 +78,9 @@
 
 ➡️ [Click Here...][telegram]
 
+
+
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-
 ⚡GitHub Stats
 
 ![Lucifer-00007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucifer-00007&show_icons=true&hide_border=true)
