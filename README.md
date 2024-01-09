@@ -45,11 +45,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [BGMI Gamaplay](https://www.youtube.com/watch?v=yLOExw8Oeug)
-- [Viral Video Gaming Intro](https://www.youtube.com/watch?v=_AFixQ-W55E)
-- [BGMI | MASTER GAMING - LIVE](https://www.youtube.com/watch?v=x0C-mCOiMEo)
-- [BGMI | MASTER GAMING - LIVE](https://www.youtube.com/watch?v=58t_BJz6FAk)
-- [BGMI | MASTER GAMING - LIVE](https://www.youtube.com/watch?v=9pGt8VMagnA)
+- [Learn with Style: Purple Simple School Channel Intro &amp; Outro](https://www.youtube.com/watch?v=K-Cw_pjpkcg)
+- [Serene Explorations: White Neutral Travel Intro](https://www.youtube.com/watch?v=YxsLML3eHkA)
+- [Neon Vibes: Black &amp; Blue Welcome to My Channel Intro](https://www.youtube.com/watch?v=yzkBNtZkXMc)
+- [Wanderlust Adventures: Simple Animated Travel Vlog Intro 🌍✈️](https://www.youtube.com/watch?v=Pv025vMy_wM)
+- [Level Up Your Gaming Channel With This New Intro Video Template.](https://www.youtube.com/watch?v=upIKr_jvz5E)
 <!-- YOUTUBE:END -->
 
 
