@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucifer - aka [Decoder](https://tectalkflow.blogspot.com/) 👋
 
 [![Website](https://img.shields.io/website?label=tectalkflow.blogspot.com&style=for-the-badge&url=https://tectalkflow.blogspot.com/)](https://tectalkflow.blogspot.com/)
-[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg?style=for-the-badge&logo=Telegram)][telegram] 
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg?style=for-the-badge&logo=Telegram)][my_telegram] 
 
 
 ## Welcome To LuciferWorld!!
@@ -22,7 +22,7 @@
 
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/youtube-268-721990.png" />][youtube] -->
 
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1856777-1576513.png" />][telegram]
+[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1856777-1576513.png" />][my_telegram]
 
 <br />
 
@@ -76,7 +76,7 @@
 <!-- TELEGRAM-POST:START -->
 <!-- TELEGRAM-POST:END -->
 
-➡️ [Click Here...][telegram]
+➡️ [Click Here...][telegram_channel]
 
 
 
@@ -115,6 +115,8 @@
 
 [Python]: https://www.python.org/
 
-[telegram]: https://telegram.dog/LuciferWorld7
+[my_telegram]: https://t.me/HelloLucifer7_bot
+
+[telegram_channel]: https://t.me/+yYAD8PSvbulhODI1
 
 [Linux]: https://www.linux.org/
