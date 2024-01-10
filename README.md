@@ -95,7 +95,7 @@
 
 [twitter]: https://twitter.com/codeSTACKr
 
-[youtube]: https://www.youtube.com/channel/UC0p2zYCZC83TxJU30cbuPZA
+[youtube]: https://www.youtube.com/channel/UCizuOANoH_YwS0Mo4CaLeWA
 
 [instagram]: https://instagram.com/codeSTACKr
 
