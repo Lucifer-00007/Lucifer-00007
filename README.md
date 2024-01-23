@@ -18,9 +18,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/internet-1957424-1651196.png" />][website]
+[<img align="left" alt="Wesite" width="22px" src="./My%20Icons/globe-dark.svg" />][website]
 
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/youtube-268-721990.png" />][youtube] -->
+
+[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1856777-1576513.png" />][my_telegram]
 
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1856777-1576513.png" />][my_telegram]
 
