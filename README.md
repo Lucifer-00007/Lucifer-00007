@@ -93,13 +93,7 @@
 
 [website]: https://tectalkflow.blogspot.com/
 
-[course]: 
-
-[twitter]: 
-
 [youtube]: https://www.youtube.com/channel/UCizuOANoH_YwS0Mo4CaLeWA
-
-[instagram]: 
 
 [linkedin]: https://www.linkedin.com/in/aniruddha-pandey
 
