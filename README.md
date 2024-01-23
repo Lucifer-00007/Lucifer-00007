@@ -20,11 +20,11 @@
 
 [<img align="left" alt="Wesite" width="22px" src="./My%20Icons/globe-dark.svg" />][website]
 
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/youtube-268-721990.png" />][youtube] -->
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/youtube-268-721990.png" />][youtube]
 
-[<img align="left" alt="Telegram" width="22px" src="./My%20Icons/telegram-circled.svg" />][my_telegram]
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1856777-1576513.png" />][my_telegram]
 
-[<img align="left" alt="" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1856777-1576513.png" />][my_telegram]
+[<img align="left" alt="Linkedin" width="22px" src="./My%20Icons/linkedin-dark.svg" />][linkedin]
 
 <br />
 
@@ -93,15 +93,15 @@
 
 [website]: https://tectalkflow.blogspot.com/
 
-[course]: https://www.youtube.com/playlist?list=PLaxi76nSJ5Q68L1NJD4ldWmxesYkUvhTz
+[course]: 
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: 
 
 [youtube]: https://www.youtube.com/channel/UCizuOANoH_YwS0Mo4CaLeWA
 
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/aniruddha-pandey
 
 [Pycham]: https://www.jetbrains.com/pycharm/
 
