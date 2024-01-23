@@ -22,7 +22,7 @@
 
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/youtube-268-721990.png" />][youtube] -->
 
-[<img align="left" alt="Telegram" width="22px" src="./My%20Icons/telegram-black-icon.webp" />][my_telegram]
+[<img align="left" alt="Telegram" width="22px" src="./My%20Icons/telegram-circled.svg" />][my_telegram]
 
 [<img align="left" alt="" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1856777-1576513.png" />][my_telegram]
 
