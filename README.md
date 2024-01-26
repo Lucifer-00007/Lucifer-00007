@@ -111,7 +111,7 @@
 
 [Python]: https://www.python.org/
 
-[my_telegram]: https://t.me/HelloLucifer7_bot
+[my_telegram]: https://telegram.dog/HelloLucifer7_bot
 
 [telegram_channel]: https://t.me/+yYAD8PSvbulhODI1
 
