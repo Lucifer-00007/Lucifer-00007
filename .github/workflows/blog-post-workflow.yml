@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Use Node.js version 18.19.0
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18.19.0'
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "http://feeds.feedburner.com/blogspot/LUCIFERS__WORLD"
