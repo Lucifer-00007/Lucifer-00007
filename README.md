@@ -49,7 +49,7 @@
 <!-- YOUTUBE:START -->
 - [Unveiling the Purple Simple School: A Stylish YouTube Channel Intro &amp; Outro](https://www.youtube.com/watch?v=K-Cw_pjpkcg)
 - [The Secret Beauty of Serenity: Exploring White Neutral Travel](https://www.youtube.com/watch?v=YxsLML3eHkA)
-- [Neon Vibes: Black &amp; Blue Welcome to My Channel Intro](https://www.youtube.com/watch?v=yzkBNtZkXMc)
+- [Unlocking the Secrets of Neon Vibes: Black &amp; Blue - Channel Intro](https://www.youtube.com/watch?v=yzkBNtZkXMc)
 - [Wanderlust Adventures: Simple Animated Travel Vlog Intro 🌍✈️](https://www.youtube.com/watch?v=Pv025vMy_wM)
 - [Level Up Your Gaming Channel With This New Intro Video Template.](https://www.youtube.com/watch?v=upIKr_jvz5E)
 <!-- YOUTUBE:END -->
