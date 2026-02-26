@@ -47,11 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Russian Horror Punk The Ghost Grandpa from the Factory! 👻](https://www.youtube.com/watch?v=UWOx35Y2-NI)
 - [Zocar Taxi for Drivers](https://www.youtube.com/watch?v=qMS9o0iTkZw)
 - [Unveiling the Purple Simple School: A Stylish YouTube Channel Intro &amp; Outro](https://www.youtube.com/watch?v=K-Cw_pjpkcg)
 - [The Secret Beauty of Serenity: Exploring White Neutral Travel](https://www.youtube.com/watch?v=YxsLML3eHkA)
 - [Unlocking the Secrets of Neon Vibes: Black &amp; Blue - Channel Intro](https://www.youtube.com/watch?v=yzkBNtZkXMc)
-- [Wanderlust Adventures: Simple Animated Travel Vlog Intro 🌍✈️](https://www.youtube.com/watch?v=Pv025vMy_wM)
 <!-- YOUTUBE:END -->
 
 
